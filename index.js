@@ -118,4 +118,4 @@ for (j = 0; j < highScore.length; j++) {
     console.log(chalk.bold.yellowBright(highScore[j].userName + '   ' + highScore[j].score));
 }
 
-console.log(chalk.bold.greenBright('P.S: If your\'s the high score, then send me a screenshot !!'))
+console.log(chalk.bold.greenBright('P.S: If your\'s the high score, then send me a screenshot !!'));
